@@ -1,0 +1,14 @@
+.aboutUS{
+    background-color: #EFEFEF;
+    margin: 30px auto;
+    .container{
+        display:flex;
+        justify-content:end;
+        padding: 30px;
+        P{
+            font-size: 32px;
+            width: 636px;
+            text-align: left;
+        }
+    }
+}

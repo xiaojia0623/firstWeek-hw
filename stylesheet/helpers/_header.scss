@@ -1,0 +1,22 @@
+.header{
+    margin: 0 auto;
+    h1{
+        font-size: 128px;
+        text-align: start;
+        margin-left: 50px;
+        line-height: 192px;
+    }
+    .header-img{
+        img{
+            margin: 0 auto;
+            display: block;
+        }
+    }
+    h2{
+        font-size: 128px;
+        text-align: end;
+        margin-top: 20px;
+        margin-right: 100px;
+        line-height: 192px;
+    }
+}

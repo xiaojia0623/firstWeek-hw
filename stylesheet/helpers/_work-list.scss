@@ -1,0 +1,29 @@
+.container{
+    margin: 0 auto;
+    .item-list{
+        margin-bottom: 20px;
+        width: 636px;
+        h3{
+            color:#AE0000;
+            border-bottom: 3px solid #AE0000;
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        ul{
+            li{
+                a{
+                    text-decoration: none;
+                    color:#000;
+                    font-size: 24px;
+                }
+                .twenty{
+                    font-size: 20px;
+                    color:#949494;
+                }
+                .blackWord{
+                    font-size: 24px;
+                }
+            }
+        }
+    }
+}
